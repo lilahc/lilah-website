@@ -1,7 +1,8 @@
 
 h1{
   color: #8FBC8F;
-  font-family: Times New Roman;
+  font-family: Times New Roman; 
+  padding-top: 5em:
 }
 
 body{
@@ -11,6 +12,7 @@ body{
 p{
   font-family: Times New Roman;
   color: #8FBC8F;
+  padding-top: 6em:
 }
 
 ul.navbar{
@@ -18,6 +20,7 @@ ul.navbar{
     padding: 0;
     margin: 0;
   position: absolute;
-  height: 4 em;
+  top: 0;
+  width: 4em;
   background-color: #8FBC8F;
 }
