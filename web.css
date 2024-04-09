@@ -32,24 +32,24 @@ margin: 0;
 
 header{
 height: 55px;
-  background-color: #8FBC8F;
-  text-decoration: none;
-  border: 1px solid grey;
 }
 
 header nav ul{
 display: flex;
 margin-left: 80%;
+background-color: #8FBC8F;
+text-decoration: none;
+border: 1px solid grey;
 }
 
 header nav ul li{
 padding-left: 10%;
 list-style-type: none;
-  font-family: Times New Roman;
+font-family: Times New Roman;
 }
 
 section{
-height: 100vh;
+height: 80vh;
 display: flex;
 justify-content: center;
 align-items: center;
