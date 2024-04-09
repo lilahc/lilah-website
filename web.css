@@ -12,10 +12,9 @@ body{
 p{
   font-family: Times New Roman;
   color: #8FBC8F;
-  
 }
 
-ul.navbar{
+/* ul.navbar{
   list-style-type: none;
     padding: 0;
     margin: 0;
@@ -24,4 +23,42 @@ ul.navbar{
   width: 36em;
   background-color: #8FBC8F;
   text-decoratuin: none;
+} */
+
+*{
+padding: 0;
+margin: 0;
 }
+
+header{
+height: 45px;
+}
+header nav ul{
+display: flex;
+margin-left: 80%;
+}
+
+header nav ul li{
+padding-left: 10%;
+}
+
+section{
+height: 100vh;
+border: 1px solid grey;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.Container{
+margin-top: 10%
+}
+
+.Container img{
+height: 300px;
+}
+
+.Container h2{
+margin-top: 3%;
+}
+
