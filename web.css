@@ -5,11 +5,17 @@ h1{
 }
 
 body{
-  background-color: #FFF0F5;
+  background-color: #FFFAFA;
   border: 5px solid black;
 }
 
 p{
   font-family: Times New Roman;
   color: #5F9EA0;
+}
+
+ul.navbar{
+  position: absolute;
+  height: 4 em;
+  background-color: #8FBC8F;
 }
