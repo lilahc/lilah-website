@@ -1,20 +1,22 @@
 
 h1{
-  color: #5F9EA0;
+  color: #8FBC8F;
   font-family: Times New Roman;
 }
 
 body{
   background-color: #FFFAFA;
-  border: 5px solid black;
 }
 
 p{
   font-family: Times New Roman;
-  color: #5F9EA0;
+  color: #8FBC8F;
 }
 
 ul.navbar{
+  list-style-type: none;
+    padding: 0;
+    margin: 0;
   position: absolute;
   height: 4 em;
   background-color: #8FBC8F;
