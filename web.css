@@ -1,5 +1,15 @@
 
 h1{
-  color: ##5F9EA0;
+  color: #5F9EA0;
   font-family: Times New Roman;
+}
+
+body{
+  background-color: #FFF0F5;
+  border: 5px solid black;
+}
+
+p{
+  font-family: Times New Roman;
+  color: #5F9EA0;
 }
