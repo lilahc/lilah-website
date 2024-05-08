@@ -1,12 +1,14 @@
 {
   "stateName" : "policy", 
-  <!-- "alabama" : "In Alabama, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health, or if the fetus is not expected to survive the pregnancy. You can leave Alabama and get an abortion out of state. ",--!>
+  <!-- "alabama" : "In Alabama, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health, or if the fetus is not expected to survive the pregnancy. You can leave Alabama and get an abortion out of state. ",-->
   {
   "state" : "Alabama",
   "CurrentPolicy" : "",
   "Nuance" : "In Alabama, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health, or if the fetus is not expected to survive the pregnancy. You can leave Alabama and get an abortion out of state.",
 }
-  "Alaska" : [
+
+  
+<!--   "Alaska" : [
     {
     "CurrentPolicy" : "In Alaska, it is legal to have an abortion. There is no specific week cutoff.",
     "WeeksLegal" : " weeks" ,
@@ -356,5 +358,6 @@
     "IfMinor" : "",
       ]
    },
-  :
+  : 
+    -->
 }
