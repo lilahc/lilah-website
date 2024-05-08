@@ -89,17 +89,34 @@
 
   <script>
     function search() {
-      // Get selected value from the selection box
-      var state = document.getElementById("state").value;
-
-      // Perform search based on selected value
-      // You can customize this part to perform the actual search operation
-      // For now, let's just display the selected value as search result
-      var searchResult = "State: " + fetch("StateData.json").then(n=>n.json()).then(data=> data[State]{
-      });
+      // Get selected value from the state selection box
+      var selectedState = document.getElementById("state").value;
       
-      // Display search result on the page
-      document.getElementById("searchResults").innerHTML = searchResult;
+      // Get numerical input from the age input box
+      var age = document.getElementById("age").value;
+
+      // Fetch data from StateData.json
+      fetch('StateData.json')
+        .then(response => response.json())
+        .then(data => {
+          // Find the selected state in the data
+          var stateData = data.find(item => item.state === selectedState);
+          if (stateData) {
+            // Prepare the search result
+            var searchResult = "State: " + stateData.state + "<br>Current Policy: " + stateData.CurrentPolicy + "<br> Nuance: " + stateData.Nuance;
+            
+            // Display search result on the page
+            document.getElementById("searchResults").innerHTML = searchResult;
+          } else {
+            // If state data is not found, display an error message
+            document.getElementById("searchResults").innerHTML = "Data not found for the selected state.";
+          }
+        })
+        .catch(error => {
+          console.error('Error fetching data:', error);
+          document.getElementById("searchResults").innerHTML = "An error occurred while fetching data.";
+        });
+     
     }
   </script>
 </body>
