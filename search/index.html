@@ -95,7 +95,8 @@
       // Perform search based on selected value
       // You can customize this part to perform the actual search operation
       // For now, let's just display the selected value as search result
-      var searchResult = "State: " + state;
+      var searchResult = "State: " + fetch("StateData.json").then(n=>n.json()).then(data=> data[State]{
+      });
       
       // Display search result on the page
       document.getElementById("searchResults").innerHTML = searchResult;
