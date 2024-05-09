@@ -96,14 +96,14 @@
       var age = document.getElementById("age").value;
 
       // Fetch data from StateData.json
-      fetch('StateData.json')
+      fetch('../StateData.json')
         .then(response => response.json())
         .then(data => {
           // Find the selected state in the data
-          var stateData = data.find(item => item.state === selectedState);
+          var stateData = data[selectedState];
           if (stateData) {
             // Prepare the search result
-            var searchResult = "State: " + stateData.state + "<br>Current Policy: " + stateData.CurrentPolicy + "<br> Nuance: " + stateData.Nuance;
+            var searchResult = "State: " + selectedState + "<br>Current Policy: " + stateData.CurrentPolicy + "<br> Nuance: " + stateData.Nuance;
             
             // Display search result on the page
             document.getElementById("searchResults").innerHTML = searchResult;
