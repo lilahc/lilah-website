@@ -20,7 +20,7 @@
    ]
 } 
 
-}
+{
   "Arizona" : [
     {
     "CurrentPolicy" : "In Arizona, abortion is cuurrently legal. A complete ban may no into effect, but it is NOT in place right now. ",
@@ -28,8 +28,7 @@
     "Nuance" : "It is legal to have an abortion before 16 weeks, but some providers may stop offerring abortion sooner",
     "IfMinor" : "If you are a minor, you need a parent or legal guardian to give you permission. If this is not an option for you, you can seek a judicial bypass that will allow you to waive the requirement for permission. If you need help navigating this process, call the Judicial Bypass Helpline at 844-868-2812 or submit a request online HERE",
     "Wait": "If you decide to get an abortion, unless your health is at risk you are required to get counseling information from your abortion provider and then wait 24 hours. You may be able to recieve counseling over the phone. You will be offered written material about getting an abortion, but you do not have to take it. You will also be informed of your fetus's gestational age and the abortion procedure will be described to you.",
-      ]
-   }
+   }]
     }
 
 
@@ -84,7 +83,7 @@
     }]
 }
 
-} "Florida" :  [
+{ "Florida" :  [
     {
     "CurrentPolicy" : "In Florida, it is legal to have an abortion. A new law may result in more restrictions after 5/1/2024 ",
     "WeeksLegal" : "15 and 6 days" ,
@@ -95,7 +94,7 @@
 }
 
 
-}  "Georgia" :  [
+{  "Georgia" :  [
     {
     "CurrentPolicy" : "In Georgia, it is legal to have an abortion.",
     "WeeksLegal" : "6 weeks" ,
@@ -154,12 +153,19 @@
     }]
 }
 
-} "Kentucky" : [
+{ "Kentucky" : [
   {
     "CurrentPolicy" : "In Kentucky, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health. You can leave Kentucky and get an abortion out of state.",
   }]
 }
-    "Louisiana" : "In Louisiana, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health, or if the fetus is not expected to survive the pregnancy. You can leave Louisiana and get an abortion out of state.",
+   
+
+{"Louisiana" : [
+  {
+    "CurrentPolicy":"In Louisiana, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health, or if the fetus is not expected to survive the pregnancy. You can leave Louisiana and get an abortion out of state.",
+  }]
+}
+    
 {  "Maine" : [
     {
     "CurrentPolicy" : "In Maine, it is legal to have an abortion. There is no specific week cutoff.",
@@ -203,7 +209,7 @@
     "WeeksLegal" : " weeks" ,
     "Nuance" : "There is no specific week cutoff.",
     "IfMinor" : "If you are a minor you can still consent to an abortion. You do not have to notify a parent to get an abortion in Minnesota.",
-      {]
+    }]
 }
 
 {  "Missouri" : [
@@ -312,7 +318,7 @@
     }]
 }
 
-}  "Oregon" : [
+{  "Oregon" : [
     {
     "CurrentPolicy" : "In Oregon it is legal to get an abortion.",
     "WeeksLegal" : " weeks" ,
@@ -348,7 +354,7 @@
     }]
 }
   
-}  "South Dakota" : [
+{  "South Dakota" : [
   "CurrentPolicy":"In South Dakota, abortion is currently illegal. As of June 24, 2022, there is a complete ban except for the following exceptions: to save the pregnant person's life. You can leave South Dakota and get an abortion out of state.",
   }]
 }
