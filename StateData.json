@@ -24,7 +24,7 @@
     "WeeksLegal" : "15 and 6 days" ,
     "Nuance" : "It is legal to have an abortion before 16 weeks, but some providers may stop offerring abortion sooner",
     "IfMinor" : "If you are a minor, you need a parent or legal guardian to give you permission. If this is not an option for you, you can seek a judicial bypass that will allow you to waive the requirement for permission. If you need help navigating this process, call the Judicial Bypass Helpline at 844-868-2812 or submit a request online HERE",
-    "Wait": "If you decide to get an abortion, unless your health is at risk you are required to get counseling information from your abortion provider and then wait 24 hours. You may be able to recieve counseling over the phone. You will be offered written material about getting an abortion, but you do not have to take it. You will also be informed of your fetus's gestational age and the abortion procedure will be described to you.",
+    "Wait": "If you decide to get an abortion, unless your health is at risk you are required to get counseling information from your abortion provider and then wait 24 hours. You may be able to recieve counseling over the phone. You will be offered written material about getting an abortion, but you do not have to take it. You will also be informed of your fetus's gestational age and the abortion procedure will be described to you."
 },
 
 
@@ -364,7 +364,7 @@
   
   "Vermont"  :{   
     
-    "CurrentPolicy" : "In Vermont it is legal to get an abortion."
+    "CurrentPolicy" : "In Vermont it is legal to get an abortion.",
     "WeeksLegal" : " weeks" ,
     "Nuance" : "There is no specific week cutoff.",
     "IfMinor" : "If you are a minor you can still consent to an abortion. You do not need parental permission."
@@ -447,6 +447,6 @@
     "WeeksLegal" : " weeks" ,
     "Nuance" : "",
     "IfMinor" : ""
-    },  
+    }
   
 }
