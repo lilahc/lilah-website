@@ -1,14 +1,14 @@
 {
   
-{ "Alabama" :   
+ "Alabama" :   
   
   "CurrentPolicy" : "",
   "Nuance" : "In Alabama, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health, or if the fetus is not expected to survive the pregnancy. You can leave Alabama and get an abortion out of state.",
 }
   
 
-{
-"Alaska" : 
+
+"Alaska"  :{ 
     
     "CurrentPolicy" : "In Alaska, it is legal to have an abortion. There is no specific week cutoff.",
     "WeeksLegal" : " weeks" ,
@@ -17,8 +17,8 @@
     "Wait" : "If you decide to get an abortion in Alaska, you do not have to wait or attend counseling before consenting to an abortion."'
   }
 
-{
-  "Arizona" :  
+ 
+  "Arizona"  :{  
     
     "CurrentPolicy" : "In Arizona, abortion is cuurrently legal. A complete ban may no into effect, but it is NOT in place right now. ",
     "WeeksLegal" : "15 and 6 days" ,
@@ -28,12 +28,12 @@
 }
 
 
-  {
-  "Arkansas" :   
-         "CurrentPolicy" : "In Arkansas, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life. You can leave Arkansas and get an abortion out of state.",
+   
+  "Arkansas" :{   
+         "CurrentPolicy"  : "In Arkansas, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life. You can leave Arkansas and get an abortion out of state.",
     }
 
-{"California" :   
+ "California"  :{   
     
     "CurrentPolicy" : "In California, it is legal to have an abortion.",
     "Nuance" : "It is legal to have an abortion before your pregnancy is viable. This means that the fetus is developed enough to survive outside of your body with medical help. There is not a specific week cutoff becauseit varies from person to person and will need to be determined by a healthcare provider.",
@@ -42,7 +42,7 @@
      
 }
 
-  {"Colorado" :   
+   "Colorado"  :{   
     
     "CurrentPolicy" : "In Colorado, it is legal to have an abortion. There is no specific week cutoff.",
     "IfMinor" : "If you are a minor, you need a parent or legal guardian to give you permission. If this is not an option for you, you can seek a judicial bypass that will allow you to waive the requirement for permission. If you need help navigating this process, call the Judicial Bypass Helpline at 844-868-2812 or submit a request online HERE",
@@ -50,7 +50,7 @@
 }
 
 
-{ "Connecticut" :   
+  "Connecticut"  :{   
     
     "CurrentPolicy" : "In Connecticut, it is legal to have an abortion.",
     "Nuance" : "It is legal to have an abortion before your pregnancy is viable. This means that the fetus is developed enough to survive outside of your body with medical help. There is not a specific week cutoff becauseit varies from person to person and will need to be determined by a healthcare provider.",
@@ -58,7 +58,7 @@
      
 }
 
-{ "Delaware" :   
+  "Delaware"  :{   
     
     "CurrentPolicy" : "In Delaware, it is legal to have an abortion.",
     "Nuance" : "It is legal to have an abortion before your pregnancy is viable. This means that the fetus is developed enough to survive outside of your body with medical help. There is not a specific week cutoff becauseit varies from person to person and will need to be determined by a healthcare provider.",
@@ -66,8 +66,8 @@
       
 }
 
-{
-  "DC" :   
+ 
+  "DC"  :{   
     
     "CurrentPolicy" : "In Washington D.C. abortion is legal.",
     "WeeksLegal" : " weeks" ,
@@ -75,7 +75,7 @@
     "IfMinor" : "If you are a minor you can still consent to an abortion, you do not have to notify a parent.",
 }
 
-{ "Florida" :    
+  "Florida"  :{    
     
     "CurrentPolicy" : "In Florida, it is legal to have an abortion. A new law may result in more restrictions after 5/1/2024 ",
     "WeeksLegal" : "15 and 6 days" ,
@@ -85,7 +85,7 @@
 }
 
 
-{  "Georgia" :   
+   "Georgia"  :{   
     "CurrentPolicy" : "In Georgia, it is legal to have an abortion.",
     "WeeksLegal" : "6 weeks" ,
     "Nuance" : "It is legal to have an abortion at or before around six weeks pregnant, but some providers may stop offerring abortion sooner. If you are more than 6 weeks pregnant, you may still be eligible for an abortion for the following reasons: to save your life or prevent serious risk to your physical health, if the pregnancy is a result of incest or rape, or if the fetus is not expected to survive the pregnancy.",
@@ -94,18 +94,18 @@
 }
 
 
-{  "Hawaii" :   
+   "Hawaii"  :{   
     "CurrentPolicy" : "In Hawaii, it is legal to have an abortion.",
     "Nuance" : "It is legal to have an abortion before your pregnancy is viable. This means that the fetus is developed enough to survive outside of your body with medical help. There is not a specific week cutoff because it varies from person to person and will need to be determined by a healthcare provider.After this point, you can still get an abortion to save your life or preserve your mental or physical health.",
     "IfMinor" : "If you are a minor, you need a parent or legal guardian to give you permission. If this is not an option for you, you can seek a judicial bypass that will allow you to waive the requirement for permission. If you need help navigating this process, call the Judicial Bypass Helpline at 844-868-2812 or submit a request online HERE",
 }
 
-{  "Idaho" :   
+   "Idaho"  :{   
    "CurrentPolicy": "In Idaho, abortion is currently illegal As of August 25st 2022,there is a complete ban except for the following exceptions: to save the pregnant person's life, or if the pregnancy is the result of rape or incest. You can leave Idaho and get an abortion out of state." 
     
 }
 
-{  "Illinois" :   
+   "Illinois"  :{   
     
     "CurrentPolicy" : "In Illinois, it is legal to have an abortion.",
     "Nuance" : "It is legal to have an abortion before your pregnancy is viable. This means that the fetus is developed enough to survive outside of your body with medical help. There is not a specific week cutoff because it varies from person to person and will need to be determined by a healthcare provider.After this point, you can still get an abortion to save your life or preserve your mental or physical health.",
@@ -114,13 +114,13 @@
 }
 
 
-{"Indiana" :   
+ "Indiana"  :{   
 
     "CurrentPolicy": "In Indiana, abortion is currently illegal. As of August 21st 2023,there is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health, if the pregnancy is the result of rape or incest, or if the fetus is not expected to survive the pregnancy. You can leave Indiana and get an abortion out of state.",
    
 }
    
-{ "Iowa" :   
+  "Iowa"  :{   
     
     "CurrentPolicy" : "In Iowa, it is legal to have an abortion.",
     "WeeksLegal" : "21 weeks 6 days" ,
@@ -131,7 +131,7 @@
 }
   
 
-{"Kansas" :   
+ "Kansas"  :{   
     
     "CurrentPolicy" : "In Kansas, it is legal to have an abortion.",
     "WeeksLegal" : "21 weeks 6 days" ,
@@ -140,20 +140,20 @@
     
 }
 
-{ "Kentucky" :   
+  "Kentucky"  :{   
   
     "CurrentPolicy" : "In Kentucky, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health. You can leave Kentucky and get an abortion out of state.",
   
 }
    
 
-{"Louisiana" :   
+ "Louisiana"  :{   
   
     "CurrentPolicy":"In Louisiana, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health, or if the fetus is not expected to survive the pregnancy. You can leave Louisiana and get an abortion out of state.",
   
 }
     
-{  "Maine" :   
+   "Maine"  :{   
     
     "CurrentPolicy" : "In Maine, it is legal to have an abortion. There is no specific week cutoff.",
     "WeeksLegal" : "" ,
@@ -162,7 +162,7 @@
      
 }
 
- { "Maryland" :   
+   "Maryland"  :{   
     
         "CurrentPolicy" : "In Maryland, it is legal to have an abortion. There is no specific week cutoff.",
         "WeeksLegal" : "" ,
@@ -171,7 +171,7 @@
  }
 
 
-{  "Massachussets" :   
+   "Massachussets"  :{   
     
     "CurrentPolicy" : "In Massachussets, it is legal to have an abortion.",
     "WeeksLegal" : "21 weeks 6 days" ,
@@ -180,7 +180,7 @@
     
 }
 
-{  "Michigan" :   
+   "Michigan"  :{   
     
     "CurrentPolicy" : "In Michigan it is legal to get an abortion.",
     "WeeksLegal" : " weeks" ,
@@ -189,7 +189,7 @@
     
 }
 
-{  "Minnesota" :   
+   "Minnesota"  :{   
     
     "CurrentPolicy" : "In Minnesota it is legal to get an abortion.",
     "WeeksLegal" : " weeks" ,
@@ -198,13 +198,13 @@
     
 }
 
-{  "Missouri" :   
+   "Missouri"  :{   
   
     "CurrentPolicy": "In Missouri, abortion is currently illegal. There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health. You can leave Missouri and get an abortion out of state.",
   
 }
     
-{   "Montana" :  
+    "Montana"  :{  
     
     "CurrentPolicy" : "In Montana, it is legal to have an abortion.",
     "Nuance" : "It is legal to have an abortion before your pregnancy is viable. This means that the fetus is developed enough to survive outside of your body with medical help. There is not a specific week cutoff because it varies from person to person and will need to be determined by a healthcare provider.After this point, you can still get an abortion to save your life or preserve your mental or physical health.",
@@ -212,13 +212,13 @@
     
 }
 
- { "Mississippi" :   
+   "Mississippi"  :{   
    
      "CurrentPolicy": "In Mississipi, abortion is currently illegal. As of July 7th 2022, there is a complete ban except for the following exceptions: to save the pregnant person's life, or if the pregnancy is a result of rape. You can leave Mississippi and get an abortion out of state.",
      
  }
 
-{  "Nebraska" :  
+   "Nebraska"  :{  
     
     "CurrentPolicy" : "In Nebraska, it is legal to have an abortion.",
     "WeeksLegal" : "12" ,
@@ -228,7 +228,7 @@
     
 }
 
-{  "Nevada" :   
+   "Nevada"  :{   
     
     "CurrentPolicy" : "In Iowa, it is legal to have an abortion.",
     "WeeksLegal" : "25 weeks 6 days" ,
@@ -237,7 +237,7 @@
      
    }
 
- { "New Hampshire" :   
+   "New Hampshire"  :{   
     
     "CurrentPolicy" : "In New Hampshire, it is legal to have an abortion.",
     "WeeksLegal" : "23 weeks 6 days" ,
@@ -246,7 +246,7 @@
       
    }
 
-{ "New Mexico" :   
+  "New Mexico"  :{   
     
     "CurrentPolicy" : "In Michigan it is legal to get an abortion.",
     "WeeksLegal" : " weeks" ,
@@ -255,7 +255,7 @@
       
 }
 
-{ "New York" :   
+  "New York"  :{   
     
     "CurrentPolicy" : "In New York, it is legal to have an abortion.",
     "Nuance" : "It is legal to have an abortion before your pregnancy is viable. This means that the fetus is developed enough to survive outside of your body with medical help. There is not a specific week cutoff because it varies from person to person and will need to be determined by a healthcare provider.After this point, you can still get an abortion to save your life or preserve your mental or physical health.",
@@ -263,7 +263,7 @@
     
 }
   
-{ "New Jersey" :   
+  "New Jersey"  :{   
     
     "CurrentPolicy" : "In New Jersey it is legal to get an abortion.",
     "WeeksLegal" : " weeks" ,
@@ -273,7 +273,7 @@
 }
 
 
- { "North Carolina" :   
+   "North Carolina"  :{   
     
     "CurrentPolicy" : "In North Carolina, it is legal to have an abortion.",
     "WeeksLegal" : "12 weeks 6 days" ,
@@ -283,18 +283,18 @@
      
    }
  
-{"North Dakota" :   
+ "North Dakota"  :{   
   
     "CurrentPolicy": "In North Dakota, abortion is currently illegal. As of April 24, 2023 there is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health, or if the pregnancy is a result of rape or incest AND you are not more than six weeks pregnant. You can leave North Dakota and get an abortion out of state.",
    
 }
  
-{"Oklahoma" :   
+ "Oklahoma"  :{   
   
     "CurrentPolicy":"In Oklahoma, abortion is currently illegal. As of May 25, 2022, There is a complete ban except for the following exceptions: to save the pregnant person's life. You can leave Oklahoma and get an abortion out of state.",  
 }
 
-{"Ohio" :   
+ "Ohio"  :{   
     
     "CurrentPolicy" : "In Ohio, it is legal to have an abortion.",
     "Nuance" : "It is legal to have an abortion before your pregnancy is viable. This means that the fetus is developed enough to survive outside of your body with medical help. There is not a specific week cutoff because it varies from person to person and will need to be determined by a healthcare provider.After this point, you can still get an abortion to save your life or preserve your mental or physical health.",
@@ -302,7 +302,7 @@
      
 }
 
-{  "Oregon" :   
+   "Oregon"  :{   
     
     "CurrentPolicy" : "In Oregon it is legal to get an abortion.",
     "WeeksLegal" : " weeks" ,
@@ -310,14 +310,14 @@
     "IfMinor" : "If you are a minor you can still consent to an abortion. You do not need parental permission.", 
    }
 
-{  "Pennsylvania" :   
+   "Pennsylvania"  :{   
     "CurrentPolicy" : "In Pennsylvania, it is legal to have an abortion.",
     "WeeksLegal" : "23 weeks 6 days" ,
     "Nuance" : "It is legal to have an abortion at or before 23 weeks and 6 days pregnant, but some providers may stop offerring abortion sooner. If you are more than 23 weeks pregnant, you may still be eligible for an abortion for the following reasons: to save your life or prevent serious risk to your physical health, or if the fetus is not expected to survive the pregnancy. You can leave New Hampshire and get an abortion out of state.",
     "IfMinor" : "If you are a minor, you need permission from a parent or legal guardian to get an abortion. If this is not an option for you, you can seek a judicial bypass that will allow you to waive the requirement for permission. If you need help navigating this process, call the Judicial Bypass Helpline at 844-868-2812 or submit a request online HERE", 
 }
  
-{ "Rhode Island" :   
+  "Rhode Island"  :{   
     
     "CurrentPolicy" : "In Rhode Island, it is legal to have an abortion.",
     "Nuance" : "It is legal to have an abortion before your pregnancy is viable. This means that the fetus is developed enough to survive outside of your body with medical help. There is not a specific week cutoff because it varies from person to person and will need to be determined by a healthcare provider.After this point, you can still get an abortion to save your life or preserve your mental or physical health.",
@@ -325,7 +325,7 @@
     
 }
 
-{  "South Carolina" :   
+   "South Carolina"  :{   
     
     "CurrentPolicy" : "In South Carolina, it is legal to have an abortion.",
     "WeeksLegal" : "6 weeks" ,
@@ -335,24 +335,24 @@
     
 }
   
-{  "South Dakota" :   
+   "South Dakota"  :{   
   "CurrentPolicy":"In South Dakota, abortion is currently illegal. As of June 24, 2022, there is a complete ban except for the following exceptions: to save the pregnant person's life. You can leave South Dakota and get an abortion out of state.",
   
 }
   
- { "Texas" :   
+   "Texas"  :{   
    
    "CurrentPolicy":"In Texas, abortion is currently illegal. As of July 1st, 2022, There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health. You can leave Texas and get an abortion out of state.",
    
  }
    
- {  "Tennessee" :   
+    "Tennessee"  :{   
    
      "CurrentPolicy": "In Tennessee, abortion is currently illegal. As of August 25, 2022, there is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health, or if the fetus is not expected to survive the pregnancy. You can leave Tennessee and get an abortion out of state.",
      
  }
   
- {  "Utah" :   
+    "Utah"  :{   
     
     "CurrentPolicy" : "In Utah, it is legal to have an abortion.",
     "WeeksLegal" : "18 weeks" ,
@@ -362,7 +362,7 @@
      
  }
   
-{ "Vermont" :   
+  "Vermont"  :{   
     
     "CurrentPolicy" : "In Vermont it is legal to get an abortion.",
     "WeeksLegal" : " weeks" ,
@@ -370,14 +370,14 @@
     "IfMinor" : "If you are a minor you can still consent to an abortion. You do not need parental permission.",
 }
   
-{ "Virginia" :   
+  "Virginia"  :{   
     "CurrentPolicy" : "In Virginia, it is legal to have an abortion.",
     "WeeksLegal" : "26 weeks 6 days" ,
     "Nuance" : "It is legal to have an abortion at or before 26 weeks and 6 days pregnant, but some providers may stop offerring abortion sooner. If you are more than 23 weeks pregnant, you may still be eligible for an abortion for the following reasons: to save your life or prevent serious risk to your physical or mental health. You can leave Virginia and get an abortion out of state.",
     "IfMinor" : "If you are a minor, you need permission from a parent or guardian to get an abortion. If this is not an option for you, you can seek a judicial bypass that will allow you to waive the requirement for permission. If you need help navigating this process, call the Judicial Bypass Helpline at 844-868-2812 or submit a request online HERE",
 }
 
-{ "Wisconsin" :    
+  "Wisconsin"  :{    
     
     "CurrentPolicy" : "In Wisconsin, it is legal to have an abortion.",
     "WeeksLegal" : "21 weeks 6 days" ,
@@ -385,27 +385,27 @@
     "Nuance" : "It is legal to have an abortion at or before 21 weeks and 6 days pregnant, but some providers may stop offerring abortion sooner. If you are more than 23 weeks pregnant, you may still be eligible for an abortion for the following reasons: to save your life or prevent serious risk to your physical or mental health. You can leave Wisconsin and get an abortion out of state.",
     "IfMinor" : "If you are a minor, you need permission from a parent or guardian to get an abortion. If this is not an option for you, you can seek a judicial bypass that will allow you to waive the requirement for permission. If you need help navigating this process, call the Judicial Bypass Helpline at 844-868-2812 or submit a request online HERE", 
    }
-{ "Wyoming" :   
+  "Wyoming"  :{   
     "CurrentPolicy" : "In Wyoming, it is legal to have an abortion.",
     "Nuance" : "It is legal to have an abortion before your pregnancy is viable. This means that the fetus is developed enough to survive outside of your body with medical help. There is not a specific week cutoff becauseit varies from person to person and will need to be determined by a healthcare provider.",
     "IfMinor" : "If you are a minor, you need a parent or legal guardian to give you permission. If this is not an option for you, you can seek a judicial bypass that will allow you to waive the requirement for permission. If you need help navigating this process, call the Judicial Bypass Helpline at 844-868-2812 or submit a request online HERE",
     "Wait" : "If you decide to get an abortion in Wyoming, you do not have to wait or attend counseling before consenting to an abortion."' 
 }
 
-{  "Washington" :   
+   "Washington"  :{   
     
     "CurrentPolicy" : "In Washington, it is legal to have an abortion.",
     "Nuance" : "It is legal to have an abortion before your pregnancy is viable. This means that the fetus is developed enough to survive outside of your body with medical help. There is not a specific week cutoff because it varies from person to person and will need to be determined by a healthcare provider.After this point, you can still get an abortion to save your life or preserve your mental or physical health.",
     "IfMinor" : "If you are a minor, you can consent to an abortion by yourself. You do not need permission from a parent or guardian.",
     }  
    
-{  "West Virginia" :   
+   "West Virginia"  :{   
   
     "CurrentPolicy":"In West Virginia, abortion is currently illegal. As of September 16, 2022 There is a complete ban except for the following exceptions: to save the pregnant person's life, to prevent serious risk to the pregnant person's physical health, if the pregnancy is a result of rape or incest, or if the fetus is not expected to survive the pregnancy. You can leave West Virginia and get an abortion out of state.",
   
 }
    
-{ "Puerto Rico" :   
+  "Puerto Rico"  :{   
     
     "CurrentPolicy" : ".",
     "WeeksLegal" : " weeks" ,
@@ -414,7 +414,7 @@
       
    }
  
-{"Guam" :   
+ "Guam"  :{   
     
     "CurrentPolicy" : ".",
     "WeeksLegal" : " weeks" ,
@@ -423,7 +423,7 @@
 }  
 
  
-{"American Samoa" :   
+ "American Samoa"  :{   
     
     "CurrentPolicy" : ".",
     "WeeksLegal" : " weeks" ,
@@ -432,7 +432,7 @@
     }  
 
  
-{ "Northern Mariana Islands" :   
+  "Northern Mariana Islands"  :{   
     
     "CurrentPolicy" : ".",
     "WeeksLegal" : " weeks" ,
@@ -441,7 +441,7 @@
     }  
 
  
-{"US Virgin Islands" :   
+ "US Virgin Islands"  :{   
     
     "CurrentPolicy" : ".",
     "WeeksLegal" : " weeks" ,
