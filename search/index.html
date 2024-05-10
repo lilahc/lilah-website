@@ -76,6 +76,12 @@
       <option value="West Virginia">West Virginia</option>
       <option value="Wisconsin">Wisconsin</option>
       <option value="Wyoming">Wyoming</option>
+      <option value="Washington, D.C.">Washington,D.C.>/option>
+      <option value="Puerto Rico">Puerto Rico>/option>
+      <option value="Guam">Guam>/option>
+      <option value="American Samoa">American Samoa>/option>
+      <option value="Northern Mariana Islands">Noerthern Mariana Islands>/option>
+      <option value="US Virgin Islands">US Virgin Islands>/option>
     </select>
     <br>
     <label for="age">Age:</label>
@@ -104,7 +110,7 @@
            var stateData = data[selectedState];
           if (stateData) {
             // Prepare the search result
-          var searchResult = "State: " + selectedState + "<br>Current Policy: " + stateData.CurrentPolicy + "<br> Nuance: " + stateData.Nuance;
+          var searchResult = "<br>Current Policy: " + stateData.CurrentPolicy + "<br> " + stateData.Nuance + "<br>"+ stateData.Wait + "<br> " +stateData.IfMinor;
             // Display search result on the page
             document.getElementById("searchResults").innerHTML = searchResult;
           } else {
