@@ -1,19 +1,34 @@
 {
-   "11" : {
-        "Preventative" : "You may be eligible to recieve HPV vaccination. Depending on your age, you will either recieve the vaccination in two or three doses over 6-12 months.",
-        "Why" : "The HPV vaccination protects you from a getting infected by an STI called human papillomavirus. These infections are so common that about 80% of sexualy active people will have one at some point. Usually, your immune system can fight off the virus, but sometimes the infections stay in your body for years. Some types of the virus can cause symptoms that will not increase your cancer risk, like genital warts. However, some types of the virus can lead to cervical, throat, vaginal, penile, and anal cancers. The HPV vaccine is effective at protecting you from 90% of HPV strains that cause cervical cancer, anal cancer, and genital warts, as well as most strains that cause mouth and throat cancers.",
-         "Where": "If you are interested in recieving the vaccine, there are lots of places it is available for low or no cost. Common locations include pharmacies, doctor's offices, community health clinics, and health departments. If you aren't sure where to get vaccinated or if you are eligible to be vaccinated, speak to a doctor about your options."
-   }
-
-    "21" : {
-       "Preventative" : "From ages 21-29 it is widely reccommended that women and AFAB people have a Pap test every three years. From 30-65, you can remain on the three year schedule or switch to having both a Pap test and an HPV test every five years.",
-       "Why" : "Though it can feel inconvenient to go and get a Pap test, it can be very beneficial for your long term health. These tests check for abnormalities in cervical cells that could indicate problems like cecrvical cancer. That being said, if the test comes back positive, don't panic. A positive result does not always indicate cancer, and your doctor will walk you through your results and help you decide if you need further testing.",
-       "Where":"The test is usually performed in your doctor's office, either by your primary doctor or an OB/GYN. It's often done at yearly office visits. The test might be slightly uncomfortable, as it involves taking samples of cervical cells using a small brush and scraping device called a spatula. It should only take a few minutes, and then you can go about your day as normal."
+   {
+       "MinAge" : "11",
+       "MaxAge" : "45",
+   
+              "11" : {
+               "Preventative" : "You may be eligible to recieve HPV vaccination. Depending on your age, you will either recieve the vaccination in two or three doses over 6-12 months.",
+               "Why" : "The HPV vaccination protects you from a getting infected by an STI called human papillomavirus. These infections are so common that about 80% of sexualy active people will have one at some point. Usually, your immune system can fight off the virus, but sometimes the infections stay in your body for years. Some types of the virus can cause symptoms that will not increase your cancer risk, like genital warts. However, some types of the virus can lead to cervical, throat, vaginal, penile, and anal cancers. The HPV vaccine is effective at protecting you from 90% of HPV strains that cause cervical cancer, anal cancer, and genital warts, as well as most strains that cause mouth and throat cancers.",
+               "Where": "If you are interested in recieving the vaccine, there are lots of places it is available for low or no cost. Common locations include pharmacies, doctor's offices, community health clinics, and health departments. If you aren't sure where to get vaccinated or if you are eligible to be vaccinated, speak to a doctor about your options."
+                    }
     }
 
-   "40" : {
-     "Preventative" : "At age 40, it is reccommended that most women and AFAB people begin getting annual mammograms. Depending on your personal health history and other risk factors, you may be asked to start sooner.",
-      "Why" : "Recieving your annual mammogram can help migitate your risk of breast cancer. By finding any abnormalities in the breast tissue early, it means any issues can be investigated and treated before they become more dangerous.",
-      "Where" : ""
-   
+
+    {
+      "MinAge" : "21",
+      "MaxAge" : "65",
+       
+            "21" : {
+              "Preventative" : "From ages 21-29 it is widely reccommended that women and AFAB people have a Pap test every three years. From 30-65, you can remain on the three year schedule or switch to having both a Pap test and an HPV test every five years.",
+              "Why" : "Though it can feel inconvenient to go and get a Pap test, it can be very beneficial for your long term health. These tests check for abnormalities in cervical cells that could indicate problems like cecrvical cancer. That being said, if the test comes back positive, don't panic. A positive result does not always indicate cancer, and your doctor will walk you through your results and help you decide if you need further testing.",
+              "Where":"The test is usually performed in your doctor's office, either by your primary doctor or an OB/GYN. It's often done at yearly office visits. The test might be slightly uncomfortable, as it involves taking samples of cervical cells using a small brush and scraping device called a spatula. It should only take a few minutes, and then you can go about your day as normal."
+                   }
+    }
+
+     {
+        "MinAge" : "40",
+        "MaxAge" : "",
+           "40" : {
+              "Preventative" : "At age 40, it is reccommended that most women and AFAB people begin getting annual mammograms. Depending on your personal health history and other risk factors, you may be asked to start sooner.",
+              "Why" : "Recieving your annual mammogram can help migitate your risk of breast cancer. By finding any abnormalities in the breast tissue early, it means any issues can be investigated and treated before they become more dangerous.",
+              "Where" : ""
+                  }
+     }
 }
