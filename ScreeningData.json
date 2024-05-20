@@ -26,9 +26,54 @@
         "MinAge" : "40",
         "MaxAge" : "",
            "Screening" : {
-              "Preventative" : "At age 40, it is reccommended that most women and AFAB people begin getting annual mammograms. Depending on your personal health history and other risk factors, you may be asked to start sooner.",
+              "Preventative" : "At age 40, it is reccommended that most women and AFAB people begin getting annual mammograms. Depending on your personal health history and other risk factors, you may be asked to start sooner or later.",
               "Why" : "Recieving your annual mammogram can help migitate your risk of breast cancer. By finding any abnormalities in the breast tissue early, it means any issues can be investigated and treated before they become more dangerous.",
               "Where" : ""
                   }
      }
+
+     {
+        "MinAge" : "",
+        "MaxAge" : "",
+
+            "Screening" : {
+               "Preventative" : "",
+               "Why" : "",
+               "Where": "",
+            }
+      }
+
+         {
+        "MinAge" : "15",
+        "MaxAge" : "65",
+
+            "Screening" : {
+               "Preventative" : "Between the ages of 15 and 65, it is recommended you are tested for HIV, or human immunodeficiancy virus, at least once. This test might be reccommended more often if you have symptoms of infection, positive tests for other STIs, use injected drugs, are pregnant or planning to be, if you or your partner have had multiple partners since your last test, have recently been in jail or prison, or have recently been diagnosed with hepatitis C. If you don't have symptoms, the test is done by taking a blood sample. If you have genital sores, the test will by done with a swab.",
+               "Why" : "It is important to be tested because if left untreated, HIV can have serious consequences. An untreated HIV infection is dangerous because the virus kills the immune cells that help you fight infections and disease. This means you are at higher risk of things like other viruses and STIs and some cancers. If left untreated for long enough, HIV can damage the immune system enought that you are considered to have AIDS, which is usually fatal in under 5 years. It sounds scary, but if you test positive, there are medications that control HIV to the point where you cannot spread the virus to a partner through sex, and can expect to live a long and healthy life.",
+               "Where": "If you need to be tested, there are options. You can be tested using a blood draw test at a testing clinic or other doctor's office, or by using a finger prick test at home that tests a small drop of blood. Depending on the test, it might take between 18 and 90 days after exposure to accurately detect an infection.",
+            }
+      }
+
+
+     {
+        "MinAge" : "12",
+        "MaxAge" : "25",
+
+            "Screening" : {
+               "Preventative" : "Until the age of 25, it is reccommended to be tested for STIs yearly if you are sexually active. THe STI most commonly tested for is chlamydia, but you may also be tested for gonorrhea, syphilis, and anything else your doctor suggests.",
+               "Why" : "Even if you don't feel like there is anything wrong, it is still important to be tested. Not all infections are symptomatic, but that does not mean they don't exist, won't flare up later, or can't be spread to a partner. Just like most health problems, if left untreated STI's can lead to serious health problems, especially with the reproductive system. However, you shouldn't panic if you do test positive. Most infections can be cured with medicines, and all can be treated and symptoms managed.",
+               "Where": "Fortunately, STI testing is readily available in most places. There are clinics specifically for STI testing, and many health departments, clinics like Planned Parenthood, and doctor's offices provide these tests. If you aren't sure how to get tested, you can ask your doctor or look online. How you are tested depends on what test is being run, but the most common are urine, blood, and swab tests. It is also worth noting that no state requires parental notification if a minor is STI tested, but 18 states allow doctors to tell parents or guardians.",
+            }
+            }
+
+        {
+        "MinAge" : "26",
+        "MaxAge" : "200",
+
+            "Screening" : {
+               "Preventative" : "After the age of 25, frequency of STI testing depends on what risk factors you have. Risk factors include but are not limited to previous positive STI tests, having sex with multiple or new partners, and having HIV. If you are at a higher risk, it will likely be recommended that you are tested yearly or between partners, whichever comes first. If you have any symptoms of an STI you should be tested, no matter your risk factors.",
+               "Why" : "Even if you don't feel like there is anything wrong, it is still important to be tested. Not all infections are symptomatic, but that does not mean they don't exist, won't flare up later, or can't be spread to a partner. Just like most health problems, if left untreated STI's can lead to serious health problems, especially with the reproductive system. However, you shouldn't panic if you do test positive. Most infections can be cured with medicines, and all can be treated and symptoms managed.",
+               "Where": "Fortunately, STI testing is readily available in most places. There are clinics specifically for STI testing, and many health departments, clinics like Planned Parenthood, and doctor's offices provide these tests. If you aren't sure how to get tested, you can ask your doctor or look online. How you are tested depends on what test is being run, but the most common are urine, blood, and swab tests. It is also worth noting that no state requires parental notification if a minor is STI tested, but 18 states allow doctors to tell parents or guardians.",
+            }
+            }
 }
