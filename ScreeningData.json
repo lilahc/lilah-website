@@ -27,8 +27,8 @@
         "MaxAge" : "",
            "Screening" : {
               "Preventative" : "At age 40, it is reccommended that most women and AFAB people begin getting annual mammograms. Depending on your personal health history and other risk factors, you may be asked to start sooner or later.",
-              "Why" : "Recieving your annual mammogram can help migitate your risk of breast cancer. By finding any abnormalities in the breast tissue early, it means any issues can be investigated and treated before they become more dangerous.",
-              "Where" : ""
+              "Why" : "Recieving your annual mammogram can help migitate your risk of breast cancer. By finding any abnormalities in the breast tissue early, it means any issues can be investigated and treated before they become more dangerous. It is estimated that around 13% or 1 in 8 women will have breast cancer in her lifetime. However, your chances of survival drastically improve if it is caught early and treated properly. Early intervention often means a higher quality of life during and after treatment.",
+              "Where" : "Your doctor can refer you to get a mammogram, usually at hospital radiology departments, breast centers, women's health clinics, or other specialty offers. Most insurances cover this screening. It is brief and noninvasive, involving a low raditiion eray of the chest."
                   }
      }
 
@@ -42,6 +42,18 @@
                "Where": "",
             }
       }
+
+ {
+        "MinAge" : "",
+        "MaxAge" : "",
+
+            "Screening" : {
+               "Preventative" : "If you are generally healthy, you are likely eligible for several annual vaccinations. These depend on where you live and what other health factors you have. A doctor can tell you if it would be beneficial for you to reciev one or all of these options. Generally most people are eligible to be vaccinated for flu and COVID19 vaccines yearly. ",
+               "Why" : "",
+               "Where": "These are common vaccinations and readily available at doctor's offices, ",
+            }
+      }
+
 
          {
         "MinAge" : "15",
@@ -73,7 +85,7 @@
             "Screening" : {
                "Preventative" : "After the age of 25, frequency of STI testing depends on what risk factors you have. Risk factors include but are not limited to previous positive STI tests, having sex with multiple or new partners, and having HIV. If you are at a higher risk, it will likely be recommended that you are tested yearly or between partners, whichever comes first. If you have any symptoms of an STI you should be tested, no matter your risk factors.",
                "Why" : "Even if you don't feel like there is anything wrong, it is still important to be tested. Not all infections are symptomatic, but that does not mean they don't exist, won't flare up later, or can't be spread to a partner. Just like most health problems, if left untreated STI's can lead to serious health problems, especially with the reproductive system. However, you shouldn't panic if you do test positive. Most infections can be cured with medicines, and all can be treated and symptoms managed.",
-               "Where": "Fortunately, STI testing is readily available in most places. There are clinics specifically for STI testing, and many health departments, clinics like Planned Parenthood, and doctor's offices provide these tests. If you aren't sure how to get tested, you can ask your doctor or look online. How you are tested depends on what test is being run, but the most common are urine, blood, and swab tests. It is also worth noting that no state requires parental notification if a minor is STI tested, but 18 states allow doctors to tell parents or guardians.",
+               "Where": "Fortunately, STI testing is readily available in most places. There are clinics specifically for STI testing, and many health departments, clinics like Planned Parenthood, and doctor's offices provide these tests. If you aren't sure how to get tested, you can ask your doctor or look online. How you are tested depends on what test is being run, but the most common are urine, blood, and swab tests.",
             }
             }
 }
