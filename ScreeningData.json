@@ -1,4 +1,4 @@
-{
+[
    {
        "MinAge" : "11",
        "MaxAge" : "45",
@@ -88,4 +88,4 @@
                "Where": "Fortunately, STI testing is readily available in most places. There are clinics specifically for STI testing, and many health departments, clinics like Planned Parenthood, and doctor's offices provide these tests. If you aren't sure how to get tested, you can ask your doctor or look online. How you are tested depends on what test is being run, but the most common are urine, blood, and swab tests.",
             }
             },
-}
+]
