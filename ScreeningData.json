@@ -8,7 +8,7 @@
                "Why" : "The HPV vaccination protects you from a getting infected by an STI called human papillomavirus. These infections are so common that about 80% of sexualy active people will have one at some point. Usually, your immune system can fight off the virus, but sometimes the infections stay in your body for years. Some types of the virus can cause symptoms that will not increase your cancer risk, like genital warts. However, some types of the virus can lead to cervical, throat, vaginal, penile, and anal cancers. The HPV vaccine is effective at protecting you from 90% of HPV strains that cause cervical cancer, anal cancer, and genital warts, as well as most strains that cause mouth and throat cancers.",
                "Where": "If you are interested in recieving the vaccine, there are lots of places it is available for low or no cost. Common locations include pharmacies, doctor's offices, community health clinics, and health departments. If you aren't sure where to get vaccinated or if you are eligible to be vaccinated, speak to a doctor about your options."
                     }
-    }
+    },
 
 
     {
@@ -20,7 +20,7 @@
               "Why" : "Though it can feel inconvenient to go and get a Pap test, it can be very beneficial for your long term health. These tests check for abnormalities in cervical cells that could indicate problems like cecrvical cancer. That being said, if the test comes back positive, don't panic. A positive result does not always indicate cancer, and your doctor will walk you through your results and help you decide if you need further testing.",
               "Where":"The test is usually performed in your doctor's office, either by your primary doctor or an OB/GYN. It's often done at yearly office visits. The test might be slightly uncomfortable, as it involves taking samples of cervical cells using a small brush and scraping device called a spatula. It should only take a few minutes, and then you can go about your day as normal."
                    }
-    }
+    },
 
      {
         "MinAge" : "40",
@@ -30,7 +30,7 @@
               "Why" : "Recieving your annual mammogram can help migitate your risk of breast cancer. By finding any abnormalities in the breast tissue early, it means any issues can be investigated and treated before they become more dangerous. It is estimated that around 13% or 1 in 8 women will have breast cancer in her lifetime. However, your chances of survival drastically improve if it is caught early and treated properly. Early intervention often means a higher quality of life during and after treatment.",
               "Where" : "Your doctor can refer you to get a mammogram, usually at hospital radiology departments, breast centers, women's health clinics, or other specialty offers. Most insurances cover this screening. It is brief and noninvasive, involving a low raditiion eray of the chest."
                   }
-     }
+     },
 
      {
         "MinAge" : "",
@@ -41,7 +41,7 @@
                "Why" : "",
                "Where": "",
             }
-      }
+      },
 
  {
         "MinAge" : "",
@@ -52,7 +52,7 @@
                "Why" : "",
                "Where": "These are common vaccinations and readily available at doctor's offices, health departments, and clinics. To see what you may be eligible for, go to https://www.vaxassist.com/eligibility and use the finder tool to find vaccination centers near you.",
             }
-      }
+      },
 
 
          {
@@ -64,7 +64,7 @@
                "Why" : "It is important to be tested because if left untreated, HIV can have serious consequences. An untreated HIV infection is dangerous because the virus kills the immune cells that help you fight infections and disease. This means you are at higher risk of things like other viruses and STIs and some cancers. If left untreated for long enough, HIV can damage the immune system enought that you are considered to have AIDS, which is usually fatal in under 5 years. It sounds scary, but if you test positive, there are medications that control HIV to the point where you cannot spread the virus to a partner through sex, and can expect to live a long and healthy life.",
                "Where": "If you need to be tested, there are options. You can be tested using a blood draw test at a testing clinic or other doctor's office, or by using a finger prick test at home that tests a small drop of blood. Depending on the test, it might take between 18 and 90 days after exposure to accurately detect an infection.",
             }
-      }
+      },
 
 
      {
@@ -76,7 +76,7 @@
                "Why" : "Even if you don't feel like there is anything wrong, it is still important to be tested. Not all infections are symptomatic, but that does not mean they don't exist, won't flare up later, or can't be spread to a partner. Just like most health problems, if left untreated STI's can lead to serious health problems, especially with the reproductive system. However, you shouldn't panic if you do test positive. Most infections can be cured with medicines, and all can be treated and symptoms managed.",
                "Where": "Fortunately, STI testing is readily available in most places. There are clinics specifically for STI testing, and many health departments, clinics like Planned Parenthood, and doctor's offices provide these tests. If you aren't sure how to get tested, you can ask your doctor or look online. To find testing centers near you, visit https://gettested.cdc.gov/ and enter your zip code. How you are tested depends on what test is being run, but the most common are urine, blood, and swab tests. It is also worth noting that no state requires parental notification if a minor is STI tested, but 18 states allow doctors to tell parents or guardians.",
             }
-            }
+            },
 
         {
         "MinAge" : "26",
@@ -87,5 +87,5 @@
                "Why" : "Even if you don't feel like there is anything wrong, it is still important to be tested. Not all infections are symptomatic, but that does not mean they don't exist, won't flare up later, or can't be spread to a partner. Just like most health problems, if left untreated STI's can lead to serious health problems, especially with the reproductive system. However, you shouldn't panic if you do test positive. Most infections can be cured with medicines, and all can be treated and symptoms managed.",
                "Where": "Fortunately, STI testing is readily available in most places. There are clinics specifically for STI testing, and many health departments, clinics like Planned Parenthood, and doctor's offices provide these tests. If you aren't sure how to get tested, you can ask your doctor or look online. How you are tested depends on what test is being run, but the most common are urine, blood, and swab tests.",
             }
-            }
+            },
 }
