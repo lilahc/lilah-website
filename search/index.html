@@ -137,17 +137,37 @@
     fetch('../ScreeningData.json')
       .then(response => response.json())
       .then(data => {
+
+        // If no max or min is wanted for a piece of data in ScreeningData.json, it can be omitted with this code.
+        // Helper functions passesMin and passesMax improve the readability of this code.
+        
+        // The min age condition is passed if there is no min age or the age is greater than or equal to it.
+        const passesMin = item => !item.MinAge || age >= item.MinAge;
+        // The max age condition is passed if there is no max age or the age is less than or equal to it.
+        const passesMax = item => !item.MaxAge || age <= item.MaxAge;
+
+        
         // Search for screening based on age range
-        var screeningResult = data.find(item => age >= item.MinAge && age <= item.MaxAge);
+        var screeningResult = data.filter(item => passesMin(item) && passesMax(item));
 
         // Display search result
-        if (screeningResult) {
-          document.getElementById("screeningResult").innerHTML = `
-            <h2>Recommended Screening:</h2>
-            <p><strong>Preventative:</strong> ${screeningResult.Screening.Preventative}</p>
-            <p><strong>Why:</strong> ${screeningResult.Screening.Why}</p>
-            <p><strong>Where:</strong> ${screeningResult.Screening.Where}</p>
+        if (screeningResult.length > 0) { // An empty array is truthy but has 0 length
+          const resultEl = document.getElementById("screeningResult"); // Store element that contains the result.
+          // Initialize element content with header
+          resultEl.innerHTML = `
+            <h2>Recommended Screening(s):</h2>
           `;
+          // Loop through results
+          for(let result of screeningResult) {
+            // Add each result to the element
+            resultEl.innerHTML += `
+              <p><strong>Preventative:</strong> ${result.Screening.Preventative}</p>
+              <p><strong>Why:</strong> ${result.Screening.Why}</p>
+              <p><strong>Where:</strong> ${result.Screening.Where}</p>
+              <br/>
+            `;
+          }
+          
         } else {
           document.getElementById("screeningResult").innerHTML = "<p>No recommended screening found for the entered age.</p>";
         }
