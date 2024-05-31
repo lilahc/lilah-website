@@ -32,16 +32,7 @@
                   }
      },
 
-     {
-        "MinAge" : "",
-        "MaxAge" : "",
 
-            "Screening" : {
-               "Preventative" : "",
-               "Why" : "",
-               "Where": ""
-            }
-      },
 
  {
         "MinAge" : "",
@@ -49,7 +40,7 @@
 
             "Screening" : {
                "Preventative" : "If you are generally healthy, you are likely eligible for several annual vaccinations. These depend on where you live and what other health factors you have. A doctor can tell you if it would be beneficial for you to reciev one or all of these options. Generally most people are eligible to be vaccinated for flu and COVID19 vaccines yearly. ",
-               "Why" : "",
+               "Why" : "In most people, the vaccinations serve to protect from some of the most common contagious diseases. If you are interested in being vaccinated, speak with a medical professional to determine what is right for you.",
                "Where": "These are common vaccinations and readily available at doctor's offices, health departments, and clinics. To see what you may be eligible for, go to https://www.vaxassist.com/eligibility and use the finder tool to find vaccination centers near you."
             }
       },
